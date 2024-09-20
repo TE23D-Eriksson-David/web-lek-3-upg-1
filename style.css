@@ -1,0 +1,16 @@
+h1 {
+    background-color: lightcyan;
+    color: blue;
+    text-align: right;
+}
+ul {
+   background-color: purple; 
+   color: yellow;
+}
+a{
+    color: yellow;
+}
+
+body {
+    background-image: url(https://img.freepik.com/premium-vector/islamic-background-with-moorish-pattern_644416-582.jpg);
+}
